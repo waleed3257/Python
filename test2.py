@@ -1,3 +1,1 @@
-import sys
-import keywords
-print ("local print git")
+print ("local print* git")
